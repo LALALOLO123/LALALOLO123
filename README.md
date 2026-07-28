@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=170&text=Brian%20(Jiacheng)%20Fu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=170&text=Brian%20Fu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=620&lines=Application+Security+Engineer+(part-time);Full-Stack+Developer;CS+%40+Texas+A%26M+'27;Currently+building+CarScout+%F0%9F%9A%97" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Application+Security+Engineer;Full-Stack+Developer;CS+at+Texas+A%26M+2027;Currently+building+CarScout" alt="Application Security Engineer, Full-Stack Developer" />
 
 </div>
 
@@ -19,31 +19,21 @@ CS student at Texas A&M ('27, math minor), based in Austin, TX. I split my time 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,haskell,postgres&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,haskell,postgres&theme=dark" alt="Languages: TypeScript, JavaScript, Python, C++, C#, Java, Haskell, PostgreSQL" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,deno,unity,supabase,docker&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,deno,unity,supabase,docker&theme=dark" alt="Frameworks: React, Next.js, FastAPI, Node.js, Deno, Unity, Supabase, Docker" />
 
-<img src="https://skillicons.dev/icons?i=vercel,githubactions,git,linux,vite,tailwind&theme=dark" alt="tools" />
-
-</div>
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LALALOLO123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LALALOLO123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=LALALOLO123&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://skillicons.dev/icons?i=vercel,githubactions,git,linux,vite,tailwind&theme=dark" alt="Tools: Vercel, GitHub Actions, Git, Linux, Vite, Tailwind" />
 
 </div>
 
-## 🐍 Contributions
+## 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake.svg" alt="contribution snake animation" />
 </picture>
 
 </div>

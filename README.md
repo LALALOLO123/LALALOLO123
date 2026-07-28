@@ -28,8 +28,8 @@ $ security --summary
 <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-activity.svg" width="100%" alt="04 — Activity" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake-dark.svg?v=2" />
-  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake.svg?v=2" width="100%" alt="contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake-dark.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake.svg?v=3" width="100%" alt="contribution snake" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-contact.svg" width="100%" alt="05 — Contact" />

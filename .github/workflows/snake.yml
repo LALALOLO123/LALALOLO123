@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: LALALOLO123
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%2300b8ff&color_dots=%23eef2f6,%23a9f5d5,%2354e8b0,%2300ff9f,%2300b8ff
+            dist/github-snake-dark.svg?color_snake=%2300ff9f&color_dots=%230b0f14,%23103a2c,%2317724f,%2300ff9f,%2300b8ff
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4

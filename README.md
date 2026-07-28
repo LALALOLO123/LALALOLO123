@@ -13,7 +13,7 @@ CS student at Texas A&M ('27, math minor), based in Austin, TX. I split my time 
 - 🔒 Part-time AppSec contract — remediating production vulnerabilities (authorization/RLS, SSRF, race conditions) and building a 13-stage release-verification pipeline
 - 🚗 [CarScout](https://github.com/LALALOLO123/CarScout) — AI-powered used-car search: plain English in, ranked real listings out (React, FastAPI, Supabase, LLMs)
 - 🌐 [Personal website](https://github.com/LALALOLO123/personal-website) — generative WebGL portfolio with Framer Motion choreography
-- 🎮 **Project Horizon** — narrative exploration game in Unity/C# · [hackathon pivot](https://github.com/LALALOLO123/project-horizon-tamuhack25) · [Wild West Party Game](https://github.com/LALALOLO123/wild-west-party-game) @ HowdyHack 2024
+- 🎮 [Project Horizon](https://github.com/LALALOLO123/project-horizon) — narrative exploration game in Unity/C#: branching dialogue with voiceover sync, third-person traversal · [TAMUhack build](https://github.com/LALALOLO123/tamuhack25-team-project) · [Wild West Party Game](https://github.com/LALALOLO123/wild-west-party-game) @ HowdyHack 2024
 
 ## 🛠️ Stack
 

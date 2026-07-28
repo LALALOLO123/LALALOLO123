@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="900" height="90" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="f1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff9f"/><stop offset="50%" stop-color="#00b8ff"/><stop offset="100%" stop-color="#bd00ff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+    .cur { fill: #00ff9f; animation: b 1.06s steps(1) infinite; }
+    @keyframes b { 0%,50% { opacity: 1 } 51%,100% { opacity: 0 } }
+  </style>
+  <rect width="900" height="90" rx="12" fill="#0b0f14"/>
+  <rect x="0" y="0" width="900" height="2" fill="url(#f1)" rx="1"/>
+  <text class="m" x="34" y="52"><tspan fill="#00ff9f" font-size="16" font-weight="700">$</tspan><tspan fill="#7d8590" font-size="15" dx="10">exit 0 — thanks for scrolling</tspan></text>
+  <rect class="cur" x="330" y="38" width="9" height="17"/>
+  <text class="m" x="866" y="52" text-anchor="end" font-size="13" fill="#30363d">built by hand · no templates</text>
+</svg>

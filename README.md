@@ -28,14 +28,12 @@ $ security --summary
 <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-activity.svg" width="100%" alt="04 — Activity" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake.svg" width="100%" alt="contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake.svg?v=2" width="100%" alt="contribution snake" />
 </picture>
 
 <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-contact.svg" width="100%" alt="05 — Contact" />
 
-<a href="https://linkedin.com/in/jiacheng-fu-169594250"><img src="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00b8ff&labelColor=0b0f14" alt="LinkedIn" /></a>
-<a href="mailto:brian.fu123321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=maildotru&logoColor=ff7b72&labelColor=0b0f14" alt="Email" /></a>
-<a href="https://github.com/LALALOLO123"><img src="https://img.shields.io/badge/GITHUB-0b0f14?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0b0f14" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/jiacheng-fu-169594250"><img src="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00b8ff&labelColor=0b0f14" alt="LinkedIn" /></a>&nbsp;<a href="mailto:brian.fu123321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=maildotru&logoColor=ff7b72&labelColor=0b0f14" alt="Email" /></a>&nbsp;<a href="https://github.com/LALALOLO123"><img src="https://img.shields.io/badge/GITHUB-0b0f14?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0b0f14" alt="GitHub" /></a>
 
 <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/footer.svg" width="100%" alt="" />

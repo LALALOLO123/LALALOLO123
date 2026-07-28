@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 268" width="900" height="268" role="img" aria-label="Tech stack">
+  <defs>
+    <linearGradient id="e2L" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00875f"/><stop offset="50%" stop-color="#0969da"/><stop offset="100%" stop-color="#8250df"/>
+    </linearGradient>
+    <pattern id="g2L" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#eef1f5" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    .m { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+    .k { font-size: 13px; font-weight: 700; letter-spacing: 1px; }
+    .v { fill: #1f2328; font-size: 14px; }
+    .br { fill: #afb8c1; font-size: 14px; }
+    .row { opacity: 0; animation: fadeL .5s ease forwards; }
+    @keyframes fadeL { to { opacity: 1 } }
+  </style>
+
+  <rect width="900" height="268" rx="14" fill="#ffffff"/>
+  <rect width="900" height="268" rx="14" fill="url(#g2L)"/>
+
+  <text class="m" x="34" y="42" font-size="14" fill="#656d76">// stack.config</text>
+  <line x1="34" y1="56" x2="866" y2="56" stroke="#e1e6eb"/>
+
+  <g class="row" style="animation-delay:.05s">
+    <text class="m k" x="34" y="94" fill="#00875f">languages</text>
+    <text class="m br" x="176" y="94">=</text>
+    <text class="m v" x="200" y="94">TypeScript · Python · C++ · C# · Java · SQL · Haskell</text>
+  </g>
+  <g class="row" style="animation-delay:.20s">
+    <text class="m k" x="34" y="132" fill="#0969da">frontend</text>
+    <text class="m br" x="176" y="132">=</text>
+    <text class="m v" x="200" y="132">React · Next.js · Vite · Framer Motion · WebGL</text>
+  </g>
+  <g class="row" style="animation-delay:.35s">
+    <text class="m k" x="34" y="170" fill="#8250df">backend</text>
+    <text class="m br" x="176" y="170">=</text>
+    <text class="m v" x="200" y="170">FastAPI · Node.js · Deno · PostgreSQL · Supabase</text>
+  </g>
+  <g class="row" style="animation-delay:.50s">
+    <text class="m k" x="34" y="208" fill="#cf222e">security</text>
+    <text class="m br" x="176" y="208">=</text>
+    <text class="m v" x="200" y="208">Row-Level Security · threat modeling · OWASP · TOCTOU</text>
+  </g>
+  <g class="row" style="animation-delay:.65s">
+    <text class="m k" x="34" y="246" fill="#bc4c00">tooling</text>
+    <text class="m br" x="176" y="246">=</text>
+    <text class="m v" x="200" y="246">Docker · GitHub Actions · Playwright · Unity · LLVM</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="267" rx="14" fill="none" stroke="url(#e2L)" stroke-width="1.5" opacity="0.5"/>
+</svg>

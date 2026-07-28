@@ -1,6 +1,12 @@
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/header.svg" width="100%" alt="Brian Fu — Application Security Engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/header.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/header-light.svg" width="100%" alt="Brian Fu — Application Security Engineer" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-about.svg" width="100%" alt="01 — About" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-about.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-about-light.svg" width="100%" alt="01 — About" />
+</picture>
 
 CS student at **Texas A&M** (B.S. '27, math minor) in Austin, TX. I split my time between **application security** on a production multi-tenant SaaS platform and **building full-stack products** end to end.
 
@@ -11,11 +17,20 @@ $ security --summary
   cross-tenant leak closed                    11,000+ records, proven by reverse-reproduction
 ```
 
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-stack.svg" width="100%" alt="02 — Stack" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-stack.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-stack-light.svg" width="100%" alt="02 — Stack" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/stack.svg" width="100%" alt="Languages, frontend, backend, security, tooling" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/stack.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/stack-light.svg" width="100%" alt="Languages, frontend, backend, security, tooling" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-projects.svg" width="100%" alt="03 — Projects" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-projects.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-projects-light.svg" width="100%" alt="03 — Projects" />
+</picture>
 
 |  | project | what it is |
 |---|---|---|
@@ -25,19 +40,28 @@ $ security --summary
 | `▸` | **[CarStatus](https://github.com/LALALOLO123/CarStatus)** | CLI that pulls a BMW's live odometer, fuel/battery, and location via the Smartcar API.<br/><sub>`Node.js` `REST`</sub> |
 | `▸` | **[wild-west-party-game](https://github.com/LALALOLO123/wild-west-party-game)** | Live-multiplayer party game built in 24h at HowdyHack 2024 — I built the frontend.<br/><sub>`TypeScript` `Next.js`</sub> |
 
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-activity.svg" width="100%" alt="04 — Activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-activity.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-activity-light.svg" width="100%" alt="04 — Activity" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake-dark.svg?v=5" />
   <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/output/github-snake.svg?v=5" width="100%" alt="contribution snake" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-contact.svg" width="100%" alt="05 — Contact" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-contact.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/sec-contact-light.svg" width="100%" alt="05 — Contact" />
+</picture>
 
 <table><tr>
-<td><a href="https://linkedin.com/in/jiacheng-fu-169594250"><img src="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00b8ff&labelColor=0b0f14" alt="LinkedIn" /></a></td>
-<td><a href="mailto:brian.fu123321@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=maildotru&logoColor=ff7b72&labelColor=0b0f14" alt="Email" /></a></td>
-<td><a href="https://github.com/LALALOLO123"><img src="https://img.shields.io/badge/GITHUB-0b0f14?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0b0f14" alt="GitHub" /></a></td>
+<td><a href="https://linkedin.com/in/jiacheng-fu-169594250"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00b8ff&labelColor=0b0f14" /><img src="https://img.shields.io/badge/LINKEDIN-f6f8fa?style=for-the-badge&logo=linkedin&logoColor=0969da&labelColor=f6f8fa" alt="LinkedIn" /></picture></a></td>
+<td><a href="mailto:brian.fu123321@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=maildotru&logoColor=ff7b72&labelColor=0b0f14" /><img src="https://img.shields.io/badge/EMAIL-f6f8fa?style=for-the-badge&logo=maildotru&logoColor=cf222e&labelColor=f6f8fa" alt="Email" /></picture></a></td>
+<td><a href="https://github.com/LALALOLO123"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0b0f14?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0b0f14" /><img src="https://img.shields.io/badge/GITHUB-f6f8fa?style=for-the-badge&logo=github&logoColor=00875f&labelColor=f6f8fa" alt="GitHub" /></picture></a></td>
 </tr></table>
 
-<img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/footer.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/footer.svg" />
+  <img src="https://raw.githubusercontent.com/LALALOLO123/LALALOLO123/main/assets/footer-light.svg" width="100%" alt="" />
+</picture>

@@ -56,7 +56,7 @@ $ security --summary
 </picture>
 
 <table><tr>
-<td><a href="https://linkedin.com/in/jiacheng-fu-169594250"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00b8ff&labelColor=0b0f14" /><img src="https://img.shields.io/badge/LINKEDIN-f6f8fa?style=for-the-badge&logo=linkedin&logoColor=0969da&labelColor=f6f8fa" alt="LinkedIn" /></picture></a></td>
+<td><a href="https://linkedin.com/in/jiachengfu"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=00b8ff&labelColor=0b0f14" /><img src="https://img.shields.io/badge/LINKEDIN-f6f8fa?style=for-the-badge&logo=linkedin&logoColor=0969da&labelColor=f6f8fa" alt="LinkedIn" /></picture></a></td>
 <td><a href="mailto:brian.fu123321@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0b0f14?style=for-the-badge&logo=maildotru&logoColor=ff7b72&labelColor=0b0f14" /><img src="https://img.shields.io/badge/EMAIL-f6f8fa?style=for-the-badge&logo=maildotru&logoColor=cf222e&labelColor=f6f8fa" alt="Email" /></picture></a></td>
 <td><a href="https://github.com/LALALOLO123"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0b0f14?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0b0f14" /><img src="https://img.shields.io/badge/GITHUB-f6f8fa?style=for-the-badge&logo=github&logoColor=00875f&labelColor=f6f8fa" alt="GitHub" /></picture></a></td>
 </tr></table>

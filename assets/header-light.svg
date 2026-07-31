@@ -13,9 +13,9 @@
       <path d="M26 0H0V26" fill="none" stroke="#e6eaf0" stroke-width="1"/>
     </pattern>
     <clipPath id="l1"><rect x="46" y="96" width="0" height="24"><animate attributeName="width" values="0;150;150;150;0" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.09;0.9;0.97;1"/></rect></clipPath>
-    <clipPath id="l2"><rect x="46" y="132" width="0" height="24"><animate attributeName="width" values="0;0;470;470;470;0" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.13;0.30;0.9;0.97;1"/></rect></clipPath>
+    <clipPath id="l2"><rect x="46" y="132" width="0" height="24"><animate attributeName="width" values="0;0;554;554;554;0" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.13;0.30;0.9;0.97;1"/></rect></clipPath>
     <clipPath id="l3"><rect x="46" y="180" width="0" height="24"><animate attributeName="width" values="0;0;190;190;190;0" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.36;0.46;0.9;0.97;1"/></rect></clipPath>
-    <clipPath id="l4"><rect x="46" y="216" width="0" height="24"><animate attributeName="width" values="0;0;560;560;560;0" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.50;0.72;0.9;0.97;1"/></rect></clipPath>
+    <clipPath id="l4"><rect x="46" y="216" width="0" height="24"><animate attributeName="width" values="0;0;583;583;583;0" dur="9s" begin="0s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.50;0.72;0.9;0.97;1"/></rect></clipPath>
   </defs>
 
   <style>

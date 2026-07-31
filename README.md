@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/header.svg" />
-  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/header-light.svg" width="100%" alt="Brian Fu — Application Security Engineer" />
+  <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/header-light.svg" width="100%" alt="Brian Fu — Software Engineer" />
 </picture>
 
 <picture>
@@ -8,7 +8,9 @@
   <img src="https://raw.githubusercontent.com/jiacheng-fu/jiacheng-fu/main/assets/sec-about-light.svg" width="100%" alt="01 — About" />
 </picture>
 
-CS student at **Texas A&M** (B.S. '27, math minor) in Austin, TX. I split my time between **application security** on a production multi-tenant SaaS platform and **building full-stack products** end to end.
+CS student at **Texas A&M** in Austin, TX — B.S. December 2027 (3.87 GPA, math minor). I build and ship full-stack products end to end, work on **application security** for a production multi-tenant SaaS platform, and spent a summer writing an **LLVM compiler backend** for a vector DSP.
+
+**Live:** [brianfu.vercel.app](https://brianfu.vercel.app) · [CarScout](https://d1j3m9qdbgs5ik.cloudfront.net)
 
 ```console
 $ security --summary
@@ -34,8 +36,8 @@ $ security --summary
 
 |  | project | what it is |
 |---|---|---|
-| `▸` | **[CarScout](https://github.com/jiacheng-fu/CarScout)** | AI-powered used-car search — plain English in, ranked real listings out. LLM pipeline with schema sanitization, fuzzy alias matching, two-tier model routing, three-tier caching.<br/><sub>`Python` `FastAPI` `React` `Supabase` `LLMs`</sub> |
-| `▸` | **[personal-website](https://github.com/jiacheng-fu/personal-website)** | Generative portfolio — a custom WebGL fragment shader that warps toward your cursor, with Framer Motion scroll choreography.<br/><sub>`TypeScript` `React` `WebGL`</sub> |
+| `▸` | **[CarScout](https://github.com/jiacheng-fu/CarScout)** — [live ↗](https://d1j3m9qdbgs5ik.cloudfront.net) | AI-powered used-car search — plain English in, ranked real listings out. LLM pipeline with schema sanitization, fuzzy alias matching, two-tier model routing. Deployed serverless: FastAPI on Lambda behind API Gateway, React on CloudFront/S3, DynamoDB cache with native TTL holding it inside a 1,000-call/month budget.<br/><sub>`React` `FastAPI` `AWS Lambda` `DynamoDB` `API Gateway` `PostgreSQL`</sub> |
+| `▸` | **[personal-website](https://github.com/jiacheng-fu/personal-website)** — [live ↗](https://brianfu.vercel.app) | Generative portfolio — a hand-written WebGL fragment shader (domain-warped fBm) that warps toward your cursor, with spring-driven scroll-linked reveals.<br/><sub>`TypeScript` `React` `WebGL` `GLSL`</sub> |
 | `▸` | **[project-horizon](https://github.com/jiacheng-fu/project-horizon)** | Narrative exploration game, solo since 2023 — dialogue engine with typewriter text synced to voiceover audio and branching choices that gate progression.<br/><sub>`C#` `Unity`</sub> |
 | `▸` | **[CarStatus](https://github.com/jiacheng-fu/CarStatus)** | CLI that pulls a BMW's live odometer, fuel/battery, and location via the Smartcar API.<br/><sub>`Node.js` `REST`</sub> |
 | `▸` | **[wild-west-party-game](https://github.com/jiacheng-fu/wild-west-party-game)** | Live-multiplayer party game built in 24h at HowdyHack 2024 — I built the frontend.<br/><sub>`TypeScript` `Next.js`</sub> |

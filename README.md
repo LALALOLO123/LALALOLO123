@@ -14,9 +14,9 @@ CS student at **Texas A&M** in Austin, TX — B.S. December 2027 (3.87 GPA, math
 
 ```console
 $ security --summary
-  50+ production vulnerabilities remediated   IDOR, privilege escalation, SSRF, PII exposure
-  13-stage pre-push verification pipeline     negative RLS probes, exploit-regression suites
-  cross-tenant leak closed                    11,000+ records, proven by reverse-reproduction
+  50+ production vulnerabilities remediated   access-control, injection, race conditions
+  13-stage pre-push verification pipeline     negative RLS probes, regression suites
+  cross-tenant authorization gap closed       proven by reverse-reproduction
 ```
 
 <picture>
